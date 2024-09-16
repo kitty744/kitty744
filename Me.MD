@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @kitty744
+- 👀 I’m interested in Game dev
+- 🌱 I’m currently java
+- 📫 How to reach me kittygamingbuisness@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i like cats
