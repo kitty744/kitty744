@@ -1,0 +1,9 @@
+- 🔭 I’m currently working on : wizard shooting game like survivor.io
+- 🌱 I’m currently learning : java
+- 👯 I’m looking to collaborate on : nothing just yet
+- 🤔 I’m looking for help with : im not looking for any help
+- 💬 Ask me about : java projects ive made
+- 📫 How to reach me: kittygamingbuisness@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i like cats
+-->
