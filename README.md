@@ -3,18 +3,17 @@
 My name is Trollycat.
 
 Languages:
-Java
-C++
-C#
-Python
-(little) assembly
+Java,
+C++,
+C#,
+Python,
+(little) assembly,
 (little) lua
 
 Tools:
-Makefile
-Visual Studio Code
-Unity
-Many more...
+Makefile,
+Visual Studio Code,
+Unity,
 
 I'm currently working on:
 Learning python for discord bots.
