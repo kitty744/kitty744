@@ -16,6 +16,6 @@ Visual Studio Code,
 Unity,
 
 I'm currently working on:
-Learning python for discord bots.
-Learning C# for Unity
+Learning python for discord bots,
+Learning C# for Unity,
 Making a platformer game in Unity (forest theme)
