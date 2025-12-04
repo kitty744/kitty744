@@ -1,9 +1,9 @@
-<h1 align="center">Hello! Trollycat</h1>
-<h3 align="center">A backend developer</h3>
+<h1 align="center">Hello! My name is: Trollycat</h1>
+<h3 align="center">I'm a backend developer</h3>
 
-- My own programming language [Diamond](https://github.com/kitty744/Diamond)
+- I'm currently working on: My own programming language [Name: Diamond](https://github.com/kitty744/Diamond)
 
-- Python, C#, Unity **Discord.py**
+- I'm currently learning: Python, C#, Unity **Frameworks: Discord.py**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
