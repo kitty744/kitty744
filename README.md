@@ -1,20 +1,6 @@
 <h1 align="center">Hi 👋, I'm Trollycat</h1>
 <h3 align="center">A passionate backend developer from the USA</h3>
 
-- 🔭 I’m currently working on [My own programming language](https://github.com/kitty744/Diamond)
-
-- 🌱 I’m currently learning **Python, C#, Unity**
-
-- 👯 I’m looking to collaborate on **Any projects**
-
-- 🤝 I’m looking for help with **Any projects**
-
-- 👨‍💻 All of my projects are available at [github.com/kitty744](github.com/kitty744)
-
-- 💬 Ask me about **Anything you want!**
-
-- 📫 How to reach me **kittygamingbuisness@gmail.com**
-
 - ⚡ Fun fact **I'm a cat**
 
 <h3 align="left">Connect with me:</h3>
