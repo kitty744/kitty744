@@ -1,12 +1,55 @@
-<h1 align="center">Hi 👋, I'm Trollycat</h1>
+# 👋 Hey, I'm Trolly Cat
 
-- ⚡ Fun fact **I'm a cat**
-- 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
+> 🛠️ Tools & scripting enthusiast | 🧩 Problem solver | 💻 Code enjoyer
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kitty744&show_icons=true&locale=en&layout=compact" alt="kitty744" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kitty744&show_icons=true&locale=en" alt="kitty744" /></p>
+## 🧠 What I Do
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kitty744&" alt="kitty744" /></p>
+I love building **tools, scripts, and utilities** that make life easier (or at least more interesting 😄).
+I enjoy tinkering with different languages and ecosystems, whether it’s automating things, experimenting, or just learning how stuff works under the hood.
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+
+* TypeScript
+* Python
+* Java
+* C++
+* C#
+
+**Frameworks / Libraries**
+
+* React
+* discord.py
+
+---
+
+## 📊 GitHub Stats
+
+> *Because numbers are fun too*
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🎯 Current Interests
+
+* Writing useful (and sometimes silly) scripts
+* Building small tools that solve real problems
+* Experimenting with new languages & APIs
+
+---
+
+## 🐾 Fun Fact
+
+I break things just to understand how to fix them.
+
+---
+
+⭐ *Feel free to check out my repos or steal an idea — that’s what open source is for.*
