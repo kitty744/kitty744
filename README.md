@@ -32,9 +32,9 @@ I enjoy tinkering with different languages and ecosystems, whether it’s automa
 
 > *Because numbers are fun too*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kitty744\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kitty744\&layout=compact\&theme=tokyonight)
 
 ---
 
