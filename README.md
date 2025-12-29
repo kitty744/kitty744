@@ -17,20 +17,16 @@ I enjoy tinkering with different languages and ecosystems, whether it’s automa
 
 * TypeScript
 * Python
+* Golang
 * Java
-* C++
-* C#
 
 **Frameworks / Libraries**
 
 * React
-* discord.py
-
+  
 ---
 
 ## 📊 GitHub Stats
-
-> *Because numbers are fun too*
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kitty744\&show_icons=true\&theme=tokyonight)
 
