@@ -1,51 +1,76 @@
-# 👋 Hey, I'm Trolly Cat
+# 👋 Hey, I'm Trollycat
 
-> 🛠️ Tools & scripting enthusiast | 🧩 Problem solver | 💻 Code enjoyer
-
----
-
-## 🧠 What I Do
-
-I love building **tools, scripts, and utilities** that make life easier (or at least more interesting 😄).
-I enjoy tinkering with different languages and ecosystems, whether it’s automating things, experimenting, or just learning how stuff works under the hood.
+🚀 **Self-taught Software Engineer** with a strong full-stack foundation and a proven ability to learn new languages and technologies fast.  
+I enjoy building real products — from backend systems to interactive frontends — and I’m especially interested in **startup-style engineering**, where impact matters.
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 About Me
 
-**Languages**
+- 💻 Software Engineer (Backend / Frontend / Full-Stack)
+- 🧩 Strong problem-solver with a systems-oriented mindset
+- ⚡ Learn new programming languages and frameworks quickly
+- 🛠️ Enjoy building things from scratch and understanding how they work internally
+- 🎮 Interests: startup building, game development, and product-driven engineering
 
-* TypeScript
-* Python
-* Golang
-* Java
+---
 
-**Frameworks / Libraries**
+## 🛠️ Tech Stack
 
-* React
-  
+### Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Discord.py](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+---
+
+## 📌 Featured Project
+
+### 🧩 **mystdlib**
+> A clean re-implementation of Python’s standard library for learning and exploration.
+
+- Focused on understanding **core language internals**
+- Reinforces knowledge of APIs, design decisions, and low-level behavior
+- Built as a hands-on way to master Python beyond surface-level usage
+
+🔗 *Check it out in my repositories*
+
+---
+
+## 💼 What I Bring
+
+- ✅ Full-stack perspective — I understand how frontend and backend decisions affect each other
+- ✅ Comfortable jumping between languages and stacks
+- ✅ Strong fundamentals over framework dependency
+- ✅ Builder mindset — I like shipping things that actually work
+
+---
+
+## 🎯 What I’m Looking For
+
+- Backend, Frontend, or Full-Stack Software Engineering roles
+- Environments that value **learning speed**, **ownership**, and **impact**
+- Teams building real products, startups, or technically interesting systems
+
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kitty744\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kitty744\&layout=compact\&theme=tokyonight)
-
----
-
-## 🎯 Current Interests
-
-* Writing useful (and sometimes silly) scripts
-* Building small tools that solve real problems
-* Experimenting with new languages & APIs
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Trollycat&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trollycat&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
-## 🐾 Fun Fact
+## 🤝 Let’s Connect
 
-I break things just to understand how to fix them.
+If you’re interested in working together, building something cool, or just talking tech — feel free to reach out.
 
----
-
-⭐ *Feel free to check out my repos or steal an idea — that’s what open source is for.*
+⭐ *Always learning. Always building.*
