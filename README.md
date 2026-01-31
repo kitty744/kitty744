@@ -30,36 +30,6 @@ I enjoy building real products — from backend systems to interactive frontends
 
 ---
 
-## 📌 Featured Project
-
-### 🧩 **mystdlib**
-> A clean re-implementation of Python’s standard library for learning and exploration.
-
-- Focused on understanding **core language internals**
-- Reinforces knowledge of APIs, design decisions, and low-level behavior
-- Built as a hands-on way to master Python beyond surface-level usage
-
-🔗 *Check it out in my repositories*
-
----
-
-## 💼 What I Bring
-
-- ✅ Full-stack perspective — I understand how frontend and backend decisions affect each other
-- ✅ Comfortable jumping between languages and stacks
-- ✅ Strong fundamentals over framework dependency
-- ✅ Builder mindset — I like shipping things that actually work
-
----
-
-## 🎯 What I’m Looking For
-
-- Backend, Frontend, or Full-Stack Software Engineering roles
-- Environments that value **learning speed**, **ownership**, and **impact**
-- Teams building real products, startups, or technically interesting systems
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -76,9 +46,3 @@ I enjoy building real products — from backend systems to interactive frontends
 </p>
 
 ---
-
-## 🤝 Let’s Connect
-
-If you’re interested in working together, building something cool, or just talking tech — feel free to reach out.
-
-⭐ *Always learning. Always building.*
